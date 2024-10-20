@@ -44,10 +44,6 @@ Este repositório contém diversos diagramas e exemplos de arquitetura de sistem
 - **Arquitetura de Microsserviços**: Uso de containers com Docker para gerenciar múltiplos serviços independentes e escaláveis.
 - **Orquestração de APIs RESTful**: Design de APIs com separação clara de responsabilidades e integração contínua.
 - **Sistemas de Automação e IA**: Soluções que combinam pipelines de dados com IA para automação de processos empresariais.
-
-![Diagrama de Microsserviços](assets/microservices-diagram.png)
-> *Exemplo de Arquitetura de Microsserviços utilizando Python, Node.js e Docker.*
-
 ---
 
 ## 🌐 Repositórios Relacionados
