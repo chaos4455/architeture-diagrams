@@ -7,6 +7,10 @@
 
 Bem-vindo ao meu portfólio de **Arquitetura de Sistemas**! 🎯 Este repositório reúne meus conhecimentos e práticas sobre design de sistemas, arquitetura de software e desenvolvimento de soluções avançadas em tecnologias como **Python**, **Node.js**, **Docker**, e muito mais. Com foco em **microsserviços**, **arquitetura de APIs RESTful**, princípios **DDD**, **SOLID**, **DRY**, e automação, este portfólio tem o objetivo de mostrar minha habilidade de criar soluções eficientes, escaláveis e integradas em diferentes ambientes de software.
 
+Exemplo de projeto de chatbot e copilot web application full stack node + react + tailwind + fastapi 
+
+![Cursor_87KqxdqTEa](https://github.com/user-attachments/assets/c9e1d7b2-cab8-41ce-a1d8-d66dd199e8af)
+
 ---
 
 ## 🚀 Tecnologias & Práticas
